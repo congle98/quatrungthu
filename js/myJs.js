@@ -13,7 +13,7 @@ $(document).ready(function() {
 function firstQuestion(){
     $('.content').hide();
     Swal.fire({
-        title: 'He luu cậu nhó!',
+        title: 'He luu Trang nhó!',
         text: 'Nhân dịp trung thu tớ có món quà muốn gửi tặng cậu.',
         imageUrl: '../img/gif1.gif',
         imageWidth: 270,
