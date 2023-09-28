@@ -1,0 +1,11 @@
+
+B
+js/jquery-3.4.1.js,c\1\c14664255df7170d7e4fa0c24363547a3e2d376b
+=
+css/style.css,1\2\126b0f8c1ec95fb3a2541745bfc21365b438d668
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+:
+
+js/myJs.js,d\b\db56a7b803111db0352171979b87d23442c12e65
